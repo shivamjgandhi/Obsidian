@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "fef5c137371a36ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "c766665b2df7576e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Papers/September 2021/Examining horizontal gene transfer in microbial communities.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ed730ff21ada7d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4cbc45b80604a9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8e37bdc43ad54db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "80af5f52ca23233a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2bea0bfb21b56953",
+    "type": "split",
+    "children": [
+      {
+        "id": "90ec11fec0b2101e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa1c5a4cbecc69e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Papers/September 2021/Examining horizontal gene transfer in microbial communities.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c766665b2df7576e",
+  "lastOpenFiles": [
+    "Papers/September 2021/Examining horizontal gene transfer in microbial communities.md",
+    "Papers/September 2021/Gut microbial molecules in behavioral and neurodegenerative disorders.md",
+    "Papers/September 2021/Discovery and inhibition of an interspecies gut bacterial pathway for Levadopa metabolism.md",
+    "Encyclopedia/Math/Statistics/Regression/linear regression.md",
+    "Encyclopedia/Neuroscience/Structures/Blood brain barrier.md",
+    "Small intestinal.md",
+    "tyrosine.md",
+    "dopamine.md",
+    "l-dopa.md",
+    "Papers/September 2021/Untitled.md"
+  ]
+}
