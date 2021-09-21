@@ -1,0 +1,4 @@
+- breakage in [[phosphodiester linkages]] when doing DNA replication results in "nicks", which are then ligated so that the DNA strand is continuous
+- If we want to cut out a section of the genome, we need a [[restriction endonuclease]]. Then we use ligase to seal nicks in the cloning 
+- Ligase needs ATP for energy to create the phosphodiester bond
+- T4 DNA ligase from the T4 bacteriophage is the most used since it can work with both blunt and sticky ends of DNA fragments

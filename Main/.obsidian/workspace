@@ -7,11 +7,8 @@
         "id": "c766665b2df7576e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Papers/September 2021/Examining horizontal gene transfer in microbial communities.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/September 2021/Examining horizontal gene transfer in microbial communities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +83,15 @@
   },
   "active": "c766665b2df7576e",
   "lastOpenFiles": [
+    "Papers/September 2021/Discovery and inhibition of an interspecies gut bacterial pathway for Levadopa metabolism.md",
+    "Encyclopedia/Biology/Gut Biology/Small intestinal.md",
+    "Encyclopedia/Biochem/Ligase.md",
+    "restriction endonuclease.md",
+    "phosphodiester linkages.md",
+    "Encyclopedia/Biochem/Untitled.md",
     "Papers/September 2021/Examining horizontal gene transfer in microbial communities.md",
     "Papers/September 2021/Gut microbial molecules in behavioral and neurodegenerative disorders.md",
-    "Papers/September 2021/Discovery and inhibition of an interspecies gut bacterial pathway for Levadopa metabolism.md",
-    "Encyclopedia/Biology/Biotech/scRNA-seq.md",
-    "punctuated equilibrium.md",
-    "metagenomics.md",
     "Encyclopedia/Math/Statistics/Regression/linear regression.md",
-    "Encyclopedia/Neuroscience/Structures/Blood brain barrier.md",
-    "Small intestinal.md",
-    "tyrosine.md"
+    "Encyclopedia/Neuroscience/Structures/Blood brain barrier.md"
   ]
 }

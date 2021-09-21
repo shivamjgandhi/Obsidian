@@ -8,7 +8,7 @@
 - The gut microbial species identity is often not predictive of metabolic functions
 - Pos. 506 ~ metabolism or not
 - E. lenta led to the production of m-tyramine from dopamine 
-- [[Small intestinal]]l tyrDC abundance correlates with plasma L-dopa levels
+- [[Small intestine]] tyrDC abundance correlates with plasma L-dopa levels
 - Pyridoxal phosphate = active form of vitamin B6. Some tyrosine decarboxylase is pyridoxal phosphate dependent --> diet mechanism on dopamine
 
 **Possible things to investigate**
