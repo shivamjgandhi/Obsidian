@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c766665b2df7576e",
+        "id": "7d6d7bf7ae0eccaa",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Encyclopedia/Math/Statistics/Classification/logistic regression.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Encyclopedia/Math/Statistics/Classification/logistic regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,17 +85,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c766665b2df7576e",
+  "active": "7d6d7bf7ae0eccaa",
   "lastOpenFiles": [
+    "logistic regression.md",
     "Textbooks/Elements of Statistical Learning/Linear Methods for Classification/Linear Discriminant Analysis Notes.md",
-    "Textbooks/Elements of Statistical Learning/Linear Methods for Classification/Linear Regression of an Indicator Matrix.md",
+    "Textbooks/Elements of Statistical Learning/Linear Methods for Classification/Logistic Regression (Text).md",
     "Textbooks/Elements of Statistical Learning/Linear Methods for Classification/Untitled.md",
-    "Encyclopedia/Math/Statistics/Regression/linear regression.md",
-    "Encyclopedia/Math/Statistics/Classification/Untitled.md",
-    "Papers/September 2021/Examining horizontal gene transfer in microbial communities.md",
-    "Papers/September 2021/Gut microbial molecules in behavioral and neurodegenerative disorders.md",
     "Papers/September 2021/Discovery and inhibition of an interspecies gut bacterial pathway for Levadopa metabolism.md",
-    "Encyclopedia/Biology/Biotech/scRNA-seq.md",
-    "punctuated equilibrium.md"
+    "Encyclopedia/Biology/Gut Biology/Small intestinal.md",
+    "Encyclopedia/Biochem/Ligase.md",
+    "restriction endonuclease.md",
+    "phosphodiester linkages.md",
+    "Encyclopedia/Biochem/Untitled.md"
   ]
 }
