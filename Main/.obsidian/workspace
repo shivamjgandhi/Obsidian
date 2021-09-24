@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Encyclopedia/Biology/Immunology/Cell types/Endothelial cells.md",
+            "file": "Encyclopedia/Biology/Neuroscience/Structures/Blood brain barrier.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encyclopedia/Biology/Immunology/Cell types/Endothelial cells.md",
+                "file": "Encyclopedia/Biology/Neuroscience/Structures/Blood brain barrier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "c766665b2df7576e",
   "lastOpenFiles": [
+    "Encyclopedia/Biology/Neuroscience/Structures/Blood brain barrier.md",
+    "Papers/September 2021/The Blood-Brain Barrier.md",
     "Endothelial cells.md",
     "Encyclopedia/Biology/Immunology/Cell types/Astrocytes.md",
-    "Papers/September 2021/The Blood-Brain Barrier.md",
     "Pericytes.md",
     "Astrocytes.md",
     "macrophages.md",
     "CNS.md",
     "leukocyte.md",
-    "Encyclopedia/Biology/Neuroscience/Disease/MS.md",
-    "T-cell.md"
+    "Encyclopedia/Biology/Neuroscience/Disease/MS.md"
   ]
 }
