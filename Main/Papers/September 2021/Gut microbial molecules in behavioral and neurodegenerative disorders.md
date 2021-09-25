@@ -7,7 +7,7 @@
 - MAMPS, SCFAs, secondary bile acids are intestinal signals leading to enterochromaffin cell stimulation
 - No mechanistic connection between bacterial treatment, potential serotonin-regulation and depressive like phenotypes proven
 - SSRI's interact with the vagus nerve
-- High fibre diet leads to higher levels of SCFAs lead to lower levels of circulating pro-inflammatory cytokines
+- High fiber diet leads to higher levels of SCFAs lead to lower levels of circulating pro-inflammatory cytokines
 - Brain a major target for polyphenolic microbial metabolites 
 - Polyphenols are able to cross the BBB, have positive effect on neuronal cultures through decreasing inflam response
 - Therapeutic gut mb decrease in inflam [[LPS]] and increase in SCFAs and altered profile of bile acids for [[MS]]

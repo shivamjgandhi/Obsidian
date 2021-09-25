@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Encyclopedia/Biology/Neuroscience/Structures/Blood brain barrier.md",
-            "mode": "source"
+            "file": "Textbooks/Elements of Statistical Learning/Linear Methods for Classification/Linear Discriminant Analysis Notes.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encyclopedia/Biology/Neuroscience/Structures/Blood brain barrier.md",
+                "file": "Textbooks/Elements of Statistical Learning/Linear Methods for Classification/Linear Discriminant Analysis Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,8 @@
   },
   "active": "c766665b2df7576e",
   "lastOpenFiles": [
+    "Textbooks/Elements of Statistical Learning/Linear Methods for Classification/Linear Discriminant Analysis Notes.md",
+    "Papers/September 2021/Gut microbial molecules in behavioral and neurodegenerative disorders.md",
     "Encyclopedia/Biology/Neuroscience/Structures/Blood brain barrier.md",
     "Papers/September 2021/The Blood-Brain Barrier.md",
     "Endothelial cells.md",
@@ -94,8 +96,6 @@
     "Pericytes.md",
     "Astrocytes.md",
     "macrophages.md",
-    "CNS.md",
-    "leukocyte.md",
-    "Encyclopedia/Biology/Neuroscience/Disease/MS.md"
+    "CNS.md"
   ]
 }
