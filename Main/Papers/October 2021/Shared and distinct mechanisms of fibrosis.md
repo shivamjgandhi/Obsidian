@@ -12,6 +12,7 @@
 - Lipofibroblasts - fibroblast population rich in neutral lipids, are a subpopulation of resident fibroblasts
 - Resident fibroblasts are more abundant in skin as an organ rich in collagen and fiber
 - TGFbeta is a master regulator of physiological and pathological tissue repair responses
+- adiponectin-positive adipogenic precursor cells can differentiate into myofibroblasts in experimental dermal fibrosis
 
 **Possible Things to Investigate**
 - We need a deeper understanding of cell populations and inflammatory mediators involved in fibrotic responses regulation to shed light on organ-specific responses

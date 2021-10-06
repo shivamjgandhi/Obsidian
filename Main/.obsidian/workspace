@@ -7,11 +7,8 @@
         "id": "c766665b2df7576e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Papers/October 2021/Shared and distinct mechanisms of fibrosis.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/October 2021/Shared and distinct mechanisms of fibrosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +83,15 @@
   },
   "active": "c766665b2df7576e",
   "lastOpenFiles": [
+    "Textbooks/Elements of Statistical Learning/Linear Methods for Classification/Logistic Regression (Text).md",
+    "Papers/October 2021/SpatialDE - identification of spatially variable genes.md",
     "Papers/October 2021/Shared and distinct mechanisms of fibrosis.md",
+    "Papers/October 2021/Untitled.md",
     "fibrosis.md",
     "Encyclopedia/Biology/Immunology/Cell types/macrophages.md",
     "Papers/September 2021/Discovery and inhibition of an interspecies gut bacterial pathway for Levadopa metabolism.md",
-    "Papers/October 2021/Untitled.md",
     "Textbooks/Elements of Statistical Learning/Linear Methods for Classification/Linear Discriminant Analysis Notes.md",
     "Papers/September 2021/Gut microbial molecules in behavioral and neurodegenerative disorders.md",
-    "Encyclopedia/Biology/Neuroscience/Structures/Blood brain barrier.md",
-    "Papers/September 2021/The Blood-Brain Barrier.md",
-    "Endothelial cells.md"
+    "Encyclopedia/Biology/Neuroscience/Structures/Blood brain barrier.md"
   ]
 }
