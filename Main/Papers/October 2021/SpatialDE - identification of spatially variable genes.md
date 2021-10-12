@@ -11,7 +11,7 @@ $P(y |\mu, \sigma^2)=N(\mu, \sigma^2 \cdot I)$
 - Model selection done by comparing the [[Bayesian Information Criterion]]
 - To group spatially variable genes with similar spatial expression patterns, SpatialDE implements a clustering model based on the same spatial [[Gaussian Process]] based prior
 - Approximate the posterior distribution for $\mu, Z$ from [[variational inference]]
-- $\sigma_e^2$ estimated by maximizing the [[variational lower bound]]
+- $\sigma_e^2$ estimated by maximizing the [[ELBO]]
 - After inference, posterior expectations for $\mu, Z$ of params can be used to visualize any histological pattern through plotting of the $\mu_k$ over the x coordinates
 
 **Possible Things to Investigate**

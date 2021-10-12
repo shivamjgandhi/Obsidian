@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c766665b2df7576e",
+        "id": "ed3d492b3cbd2efa",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "Images/Pasted image 20210924103543.png"
+          }
         }
       }
     ],
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Images/Pasted image 20210924103543.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,17 +84,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c766665b2df7576e",
+  "active": "ed3d492b3cbd2efa",
   "lastOpenFiles": [
-    "Textbooks/Elements of Statistical Learning/Linear Methods for Classification/Logistic Regression (Text).md",
-    "Papers/October 2021/SpatialDE - identification of spatially variable genes.md",
-    "Papers/October 2021/Shared and distinct mechanisms of fibrosis.md",
-    "Papers/October 2021/Untitled.md",
-    "fibrosis.md",
-    "Encyclopedia/Biology/Immunology/Cell types/macrophages.md",
-    "Papers/September 2021/Discovery and inhibition of an interspecies gut bacterial pathway for Levadopa metabolism.md",
-    "Textbooks/Elements of Statistical Learning/Linear Methods for Classification/Linear Discriminant Analysis Notes.md",
-    "Papers/September 2021/Gut microbial molecules in behavioral and neurodegenerative disorders.md",
-    "Encyclopedia/Biology/Neuroscience/Structures/Blood brain barrier.md"
+    "Images/Pasted image 20210924103543.png",
+    "Images/Pasted image 20211007103237.png",
+    "Images/Pasted image 20211012164859.png",
+    "Images/Pasted image 20211012165133.png",
+    "Images/Pasted image 20211012165631.png",
+    "Images/Pasted image 20211007104226.png",
+    "Images/Pasted image 20210924103828.png",
+    "Pasted image 20211012164859.png",
+    "Encyclopedia/Math/Probability Theory/Graphical Models/Models/Bayes nets.md",
+    "Encyclopedia/Math/Probability Theory/Graphical Models/Models/undirected model.md"
   ]
 }
