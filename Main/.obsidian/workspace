@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Encyclopedia/Computer Science/Theoretical CS/NP-hard.md",
+            "file": "Encyclopedia/Math/Probability Theory/Graphical Models/Inference/Variable Elimination.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encyclopedia/Computer Science/Theoretical CS/NP-hard.md",
+                "file": "Encyclopedia/Math/Probability Theory/Graphical Models/Inference/Variable Elimination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "ed3d492b3cbd2efa",
   "lastOpenFiles": [
-    "NP-hard.md",
+    "Encyclopedia/Math/Probability Theory/Graphical Models/Inference/Untitled.md",
+    "Epigenetic.md",
+    "Encyclopedia/Math/Probability Theory/Graphical Models/Inference/ELBO.md",
+    "Encyclopedia/Math/Probability Theory/Graphical Models/Inference/Variational inference.md",
     "Encyclopedia/Math/Probability Theory/Graphical Models/Models/undirected model.md",
+    "Encyclopedia/Computer Science/Theoretical CS/NP-hard.md",
+    "NP-hard.md",
     "partition function.md",
     "Encyclopedia/Math/Analysis/Measure Theory/Sigma algebra.md",
-    "Images/Pasted image 20210924103543.png",
-    "Images/Pasted image 20211007103237.png",
-    "Images/Pasted image 20211012164859.png",
-    "Images/Pasted image 20211012165133.png",
-    "Images/Pasted image 20211012165631.png",
-    "Images/Pasted image 20211007104226.png"
+    "Images/Pasted image 20210924103543.png"
   ]
 }
