@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Encyclopedia/Math/Probability Theory/Graphical Models/Inference/Variable Elimination.md",
+            "file": "Textbooks/Immunology/Mucosal Immune System/12-10 to 12-14.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encyclopedia/Math/Probability Theory/Graphical Models/Inference/Variable Elimination.md",
+                "file": "Textbooks/Immunology/Mucosal Immune System/12-10 to 12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "ed3d492b3cbd2efa",
   "lastOpenFiles": [
-    "Encyclopedia/Math/Probability Theory/Graphical Models/Inference/Untitled.md",
-    "Epigenetic.md",
-    "Encyclopedia/Math/Probability Theory/Graphical Models/Inference/ELBO.md",
-    "Encyclopedia/Math/Probability Theory/Graphical Models/Inference/Variational inference.md",
-    "Encyclopedia/Math/Probability Theory/Graphical Models/Models/undirected model.md",
-    "Encyclopedia/Computer Science/Theoretical CS/NP-hard.md",
-    "NP-hard.md",
-    "partition function.md",
-    "Encyclopedia/Math/Analysis/Measure Theory/Sigma algebra.md",
-    "Images/Pasted image 20210924103543.png"
+    "Textbooks/Immunology/Mucosal Immune System/12-10 to 12-14.md",
+    "innate lymphoid cells.md",
+    "T reg cells.md",
+    "Encyclopedia/Biology/Immunology/Molecules/IFN-gamma.md",
+    "CD4 T cells.md",
+    "inflammatory.md",
+    "M-cells.md",
+    "viruses.md",
+    "lipopolysaccharides.md",
+    "mesenteric lymph nodes.md"
   ]
 }
