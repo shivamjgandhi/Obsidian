@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Textbooks/Immunology/Mucosal Immune System/12-10 to 12-14.md",
+            "file": "Textbooks/Immunology/Mucosal Immune System/12-21 to 12-22.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Immunology/Mucosal Immune System/12-10 to 12-14.md",
+                "file": "Textbooks/Immunology/Mucosal Immune System/12-21 to 12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "ed3d492b3cbd2efa",
   "lastOpenFiles": [
+    "Textbooks/Immunology/Mucosal Immune System/Untitled.md",
+    "Textbooks/Immunology/Mucosal Immune System/12-15 to 12-20.md",
+    "Papers/October 2021/SpatialDE - identification of spatially variable genes.md",
     "Textbooks/Immunology/Mucosal Immune System/12-10 to 12-14.md",
-    "innate lymphoid cells.md",
-    "T reg cells.md",
-    "Encyclopedia/Biology/Immunology/Molecules/IFN-gamma.md",
-    "CD4 T cells.md",
-    "inflammatory.md",
-    "M-cells.md",
-    "viruses.md",
-    "lipopolysaccharides.md",
-    "mesenteric lymph nodes.md"
+    "IgA.md",
+    "fecal matter transplant.md",
+    "microbiome.md",
+    "TLRs.md",
+    "Goblet cells.md",
+    "Encyclopedia/Biology/Gut Biology/IBD.md"
   ]
 }
