@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Textbooks/Immunology/Mucosal Immune System/12-21 to 12-22.md",
+            "file": "Encyclopedia/Biology/Immunology/Cell types/B-cells.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Immunology/Mucosal Immune System/12-21 to 12-22.md",
+                "file": "Encyclopedia/Biology/Immunology/Cell types/B-cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "ed3d492b3cbd2efa",
   "lastOpenFiles": [
-    "Textbooks/Immunology/Mucosal Immune System/Untitled.md",
-    "Textbooks/Immunology/Mucosal Immune System/12-15 to 12-20.md",
-    "Papers/October 2021/SpatialDE - identification of spatially variable genes.md",
-    "Textbooks/Immunology/Mucosal Immune System/12-10 to 12-14.md",
-    "IgA.md",
-    "fecal matter transplant.md",
-    "microbiome.md",
-    "TLRs.md",
-    "Goblet cells.md",
-    "Encyclopedia/Biology/Gut Biology/IBD.md"
+    "Encyclopedia/Biology/Immunology/Cell types/B-cells.md",
+    "complement.md",
+    "Toll-like receptor.md",
+    "Papers/October 2021/Metabolic modulation of tumours with engineered bacteria for immunotherapy.md",
+    "immunotherapy.md",
+    "genetically engineer.md",
+    "tumor.md",
+    "metabolites.md",
+    "Papers/October 2021/Shared and distinct mechanisms of fibrosis.md",
+    "Untitled.md"
   ]
 }
