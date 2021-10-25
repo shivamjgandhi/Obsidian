@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Encyclopedia/Biology/Immunology/Cell types/B-cells.md",
+            "file": "Papers/October 2021/Introduction to Cluster Monte Carlo Algorithms.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encyclopedia/Biology/Immunology/Cell types/B-cells.md",
+                "file": "Papers/October 2021/Introduction to Cluster Monte Carlo Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "ed3d492b3cbd2efa",
   "lastOpenFiles": [
+    "Papers/October 2021/Introduction to Cluster Monte Carlo Algorithms.md",
+    "Papers/October 2021/Metabolic modulation of tumours with engineered bacteria for immunotherapy.md",
+    "Papers/October 2021/Untitled.md",
     "Encyclopedia/Biology/Immunology/Cell types/B-cells.md",
     "complement.md",
     "Toll-like receptor.md",
-    "Papers/October 2021/Metabolic modulation of tumours with engineered bacteria for immunotherapy.md",
     "immunotherapy.md",
     "genetically engineer.md",
     "tumor.md",
-    "metabolites.md",
-    "Papers/October 2021/Shared and distinct mechanisms of fibrosis.md",
-    "Untitled.md"
+    "metabolites.md"
   ]
 }
