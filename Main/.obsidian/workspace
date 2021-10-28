@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Papers/October 2021/Shared and distinct mechanisms of fibrosis.md",
+=======
+            "file": "Papers/October 2021/Introduction to Cluster Monte Carlo Algorithms.md",
+>>>>>>> 282742f7db1f49c03e668b1e787b5b1c71c29254
             "mode": "source"
           }
         }
@@ -68,7 +72,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Papers/October 2021/Shared and distinct mechanisms of fibrosis.md",
+=======
+                "file": "Papers/October 2021/Introduction to Cluster Monte Carlo Algorithms.md",
+>>>>>>> 282742f7db1f49c03e668b1e787b5b1c71c29254
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +95,24 @@
   },
   "active": "ed3d492b3cbd2efa",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Papers/October 2021/Shared and distinct mechanisms of fibrosis.md",
+=======
+    "Papers/October 2021/Introduction to Cluster Monte Carlo Algorithms.md",
+    "Papers/October 2021/Metabolic modulation of tumours with engineered bacteria for immunotherapy.md",
+    "Papers/October 2021/Untitled.md",
+>>>>>>> 282742f7db1f49c03e668b1e787b5b1c71c29254
     "Encyclopedia/Biology/Immunology/Cell types/B-cells.md",
     "complement.md",
     "Toll-like receptor.md",
-    "Papers/October 2021/Metabolic modulation of tumours with engineered bacteria for immunotherapy.md",
     "immunotherapy.md",
     "genetically engineer.md",
     "tumor.md",
+<<<<<<< HEAD
     "metabolites.md",
     "Untitled.md"
+=======
+    "metabolites.md"
+>>>>>>> 282742f7db1f49c03e668b1e787b5b1c71c29254
   ]
 }
