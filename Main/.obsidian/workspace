@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Encyclopedia/Biology/Immunology/Cell types/B-cells.md",
+            "file": "Papers/October 2021/Shared and distinct mechanisms of fibrosis.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encyclopedia/Biology/Immunology/Cell types/B-cells.md",
+                "file": "Papers/October 2021/Shared and distinct mechanisms of fibrosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "ed3d492b3cbd2efa",
   "lastOpenFiles": [
+    "Papers/October 2021/Shared and distinct mechanisms of fibrosis.md",
     "Encyclopedia/Biology/Immunology/Cell types/B-cells.md",
     "complement.md",
     "Toll-like receptor.md",
@@ -95,7 +96,6 @@
     "genetically engineer.md",
     "tumor.md",
     "metabolites.md",
-    "Papers/October 2021/Shared and distinct mechanisms of fibrosis.md",
     "Untitled.md"
   ]
 }
