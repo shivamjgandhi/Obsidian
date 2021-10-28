@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Papers/October 2021/SpatialDE - identification of spatially variable genes.md",
+            "file": "Encyclopedia/Physics/Statistical Physics/Statistical Field Theory/Landau-Ginzburg Free Energy.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/October 2021/SpatialDE - identification of spatially variable genes.md",
+                "file": "Encyclopedia/Physics/Statistical Physics/Statistical Field Theory/Landau-Ginzburg Free Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "ed3d492b3cbd2efa",
   "lastOpenFiles": [
+    "Encyclopedia/Physics/Statistical Physics/Statistical Field Theory/Landau-Ginzburg Free Energy.md",
+    "complement.md",
+    "Euler-Lagrange equation.md",
     "Papers/October 2021/SpatialDE - identification of spatially variable genes.md",
     "Papers/October 2021/Introduction to Cluster Monte Carlo Algorithms.md",
     "Papers/October 2021/Metabolic modulation of tumours with engineered bacteria for immunotherapy.md",
     "Papers/October 2021/Untitled.md",
     "Encyclopedia/Biology/Immunology/Cell types/B-cells.md",
-    "complement.md",
     "Toll-like receptor.md",
-    "immunotherapy.md",
-    "genetically engineer.md",
-    "tumor.md"
+    "immunotherapy.md"
   ]
 }
