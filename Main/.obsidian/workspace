@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Papers/October 2021/Introduction to Cluster Monte Carlo Algorithms.md",
+            "file": "Papers/October 2021/SpatialDE - identification of spatially variable genes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/October 2021/Introduction to Cluster Monte Carlo Algorithms.md",
+                "file": "Papers/October 2021/SpatialDE - identification of spatially variable genes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "ed3d492b3cbd2efa",
   "lastOpenFiles": [
+    "Papers/October 2021/SpatialDE - identification of spatially variable genes.md",
     "Papers/October 2021/Introduction to Cluster Monte Carlo Algorithms.md",
     "Papers/October 2021/Metabolic modulation of tumours with engineered bacteria for immunotherapy.md",
     "Papers/October 2021/Untitled.md",
@@ -95,7 +96,6 @@
     "Toll-like receptor.md",
     "immunotherapy.md",
     "genetically engineer.md",
-    "tumor.md",
-    "metabolites.md"
+    "tumor.md"
   ]
 }
